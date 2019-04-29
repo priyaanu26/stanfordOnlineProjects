@@ -1,4 +1,4 @@
-statistical learning stanford online course pdfs
+statistical learning stanford online course pdfs and R scripts
 
 https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning-self-paced
 
