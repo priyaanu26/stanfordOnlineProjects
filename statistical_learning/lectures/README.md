@@ -1,1 +1,1 @@
-pdfs slides
+pdf slides
