@@ -1,5 +1,7 @@
 R exercises
 
+http://www-bcf.usc.edu/~gareth/ISL/code.html
+
 http://cran.r-project.org/doc/manuals/R-intro.pdf
 
 http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf
